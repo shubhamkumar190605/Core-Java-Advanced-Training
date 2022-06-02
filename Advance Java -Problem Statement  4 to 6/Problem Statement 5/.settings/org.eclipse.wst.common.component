@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Problem Statement 5 - Shopping Cart for a Bookstore(continued)–Implementing Forgot password functionality">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="Problem_Statement_5_-_Shopping_Cart_for_a_Bookstore(continued)–Implementing_Forgot_password_functionality"/>
+        <property name="java-output-path" value="/Problem Statement 5 - Shopping Cart for a Bookstore(continued)–Implementing Forgot password functionality/build/classes"/>
+    </wb-module>
+</project-modules>
