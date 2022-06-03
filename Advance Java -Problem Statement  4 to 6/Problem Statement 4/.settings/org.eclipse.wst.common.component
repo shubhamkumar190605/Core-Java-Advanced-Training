@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Problem Statement 4 - Shopping Cart for a Bookstore(continued)–Develop User Registration and Login Module">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="Problem_Statement_4_-_Shopping_Cart_for_a_Bookstore(continued)–Develop_User_Registration_and_Login_Module"/>
-        <property name="java-output-path" value="/Problem Statement 4 - Shopping Cart for a Bookstore(continued)–Develop User Registration and Login Module/build/classes"/>
-    </wb-module>
-</project-modules>
